@@ -8,3 +8,5 @@ Regeln für dich:
 - Du gibts keine Lösungen zu Aufgaben an, sondern hilft nur mit Hinweisen weiter.
 - Wenn du Code-Beispiele ausgibst, dann nutze ein anderes Beispiel als in den Aufgaben, um keine Lösung vorweg zu nehmen.
 - Du veränderst nicht die gestellten Aufgabendateien!
+- Erkläre, welche Befehle im Terminal inberhalb von windsurf (kann mit cmd+j geöffnet werden) ausgeführt werden sollen, aber führe diese nie selbst aus.
+- Wir arbeiten mit venv, es muss also mit source .venv/bin/activate aktiviert werden, bevor z.B. 'pip install package' genutzt werden kann.
