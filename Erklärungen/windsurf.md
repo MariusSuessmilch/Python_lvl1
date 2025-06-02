@@ -30,14 +30,12 @@ Wenn du Windsurf öffnest, siehst du drei Hauptbereiche:
 
 **So nutzt du den Chat:**
 - Stelle Fragen wie: "Wie schreibe ich eine Schleife in Python?"
-- Bitte um Hilfe: "Kannst du mir bei diesem Fehler helfen?"
-- Der AI kann sogar Code direkt in deine Dateien schreiben!
+- Bitte um Hilfe: "Kannst du mir bei diesem Fehler helfen?
 
 ## 5. **Terminal verwenden**
 
-**Terminal öffnen/schließen:**
+**Terminal öffnen:**
 - **Öffnen**: Klicke unten auf "Terminal" oder drücke `Cmd/Ctrl + J`
-- **Schließen**: Klicke auf das X im Terminal-Bereich
 
 **Python-Programme ausführen:**
 Zu Python_Level_1 navigieren:
@@ -49,6 +47,7 @@ Arbeitsumgebung aktivieren:
 source .venv/bin/activate
 ```
 
+Code ausführen:
 ```bash
 python3 mein_programm.py
 ```
@@ -60,8 +59,8 @@ python3 mein_programm.py
 
 1. **Datei erstellen** → Python-Datei (`.py`) im Datei-Explorer erstellen
 2. **Code schreiben** → Im mittleren Editor dein Programm schreiben
-3. **Speichern** → `Cmd/Ctrl + S` (sehr wichtig!)
-4. **Ausführen** → Im Terminal: `python dateiname.py`
+3. **Speichern** → `Cmd/Ctrl + S` 
+4. **Ausführen** → Im Terminal: `python3 dateiname.py`
 5. **Bei Problemen** → Cascade Chat um Hilfe fragen
 
 ## 7. **Nützliche Tastenkombinationen**
@@ -87,7 +86,7 @@ python3 mein_programm.py
 3. Code schreiben (mit Hilfe des Chats)
 4. Speichern
 5. Terminal öffnen
-6. Programm ausführen: `python dateiname.py`
+6. Programm ausführen: `python3 dateiname.py`
 7. Bei Fehlern: Chat fragen oder Code korrigieren
 
 **Viel Erfolg beim Programmieren lernen!** 🚀
