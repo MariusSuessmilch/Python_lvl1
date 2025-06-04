@@ -52,6 +52,7 @@ print(f"Letzter Film: {filme[-1]}")  # -1 = letztes Element in der Liste
 # TODO 1: Erstelle deine eigene Hobby-Liste mit 4 Hobbys
 # Ändere diese Liste mit deinen eigenen Hobbys!
 
+
 # TODO 2: Gib dein Lieblingshobby mit der Index-Notation aus
 
 
